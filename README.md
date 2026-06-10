@@ -1,6 +1,6 @@
-#👨🏻‍💻 Customer Behavior Analysis Dashboard
+# 📊 Customer Behavior Analysis Dashboard
 
-## Overview
+## 📌 Overview
 
 This end-to-end data analytics project analyzes customer purchasing behavior to uncover spending patterns, subscription trends, product performance, and customer demographics. The project demonstrates the ability to translate raw data into strategic business intelligence by:
 
@@ -16,7 +16,7 @@ The objective is to help businesses better understand customer behavior and iden
 
 ---
 
-## Business Problem
+## 🎯 Business Problem
 
 Retail businesses generate large volumes of customer transaction data but often struggle to convert this information into actionable insights.
 
@@ -30,7 +30,7 @@ This project aims to answer key business questions such as:
 
 ---
 
-## Dataset
+## 📂 Dataset
 
 The dataset contains **3,900 customer purchase records** and includes information related to:
 
@@ -45,7 +45,7 @@ The dataset contains **3,900 customer purchase records** and includes informatio
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 ### Python
 
@@ -71,7 +71,7 @@ The dataset contains **3,900 customer purchase records** and includes informatio
 
 ---
 
-## Data Cleaning & Preparation
+## 🧹 Data Cleaning & Preparation
 
 The following data preparation steps were performed:
 
@@ -116,7 +116,7 @@ Converted textual purchase frequencies into numeric values for analysis:
 
 ---
 
-## Exploratory Data Analysis (EDA)
+## 📈 Exploratory Data Analysis
 
 EDA was performed to understand:
 
@@ -131,7 +131,7 @@ Key findings from the analysis guided the dashboard design and KPI selection.
 
 ---
 
-## SQL Business Analysis
+## 🗄️ SQL Business Analysis
 
 The cleaned dataset was loaded into PostgreSQL for advanced querying.
 
@@ -159,7 +159,7 @@ Techniques used:
 
 ---
 
-## Power BI Dashboard
+## 📊 Power BI Dashboard
 
 <img width="1411" height="791" alt="image" src="https://github.com/user-attachments/assets/e75e9266-4988-48aa-9341-f104c4a6c673" />
 
@@ -209,7 +209,7 @@ Users can filter results by:
 
 ---
 
-## Key Insights
+## 💡 Key Insights
 
 ### Customer Segments
 
